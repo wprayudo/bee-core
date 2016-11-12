@@ -1,6 +1,6 @@
 ## Bee Core Engine 1.5
 Bee is an engine to build distributed microservices from your own data and event message handling, including network stacks, 
-queues, database, integration and even computation, based on Tarantool Database, Zerotier, Libsodium and NanoMsg packaged into Rump Kernel image.
+queues, database, integration and even computation, based on \Libsodium and NanoMsg packaged into Rump Kernel image.
 
 'Note' : full SDN network stack only available as Rump Kernel image, however..you can play all bee functions without it.
 
